@@ -41,7 +41,6 @@
       <td>10-09-2025</td>
       <td>04</td>
       <td>Widget Flexible dan Expanded</td>
-      <td><a href="#">Modul 04</a></td>
       <td><a href="#">Laporan Praktikum 4</a></td>
     </tr>
     <tr>
