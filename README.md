@@ -27,28 +27,28 @@
       <td>03-09-2025</td>
       <td>02</td>
       <td>Widget Row dan Column</td>
-      <td><a href="#">Laporan Praktikum 2</a></td>
+      <td><a href="https://github.com/Villhze/Mobile-Progamming/blob/ab93d25c0983591bc40733d4144199fcae410a55/240605110080_Dimas%20Bagus%20Hari%20Murti_Tugas%202.docx">Laporan Praktikum 2</a></td>
     </tr>
     <tr>
       <td>3</td>
       <td>10-09-2025</td>
       <td>03</td>
       <td>Pengaturan Layout Row dan Column di Flutter</td>
-      <td><a href="#">Laporan Praktikum 3</a></td>
+      <td><a href="https://github.com/Villhze/Mobile-Progamming/blob/ab93d25c0983591bc40733d4144199fcae410a55/240605110080_Dimas%20Bagus%20Hari%20Murti_Tugas%20Modul%203.docx">Laporan Praktikum 3</a></td>
     </tr>
     <tr>
       <td>4</td>
       <td>10-09-2025</td>
       <td>04</td>
       <td>Widget Flexible dan Expanded</td>
-      <td><a href="#">Laporan Praktikum 4</a></td>
+      <td><a href="https://github.com/Villhze/Mobile-Progamming/blob/ab93d25c0983591bc40733d4144199fcae410a55/240605110080_Dimas%20Bagus%20Hari%20Murti_Tugas%20Modul%204.pdf">Laporan Praktikum 4</a></td>
     </tr>
     <tr>
       <td>5</td>
       <td>17-09-2025</td>
       <td>05</td>
       <td>Widget SizedBox, Spacer, dan Card</td>
-      <td><a href="#">Laporan Praktikum 5</a></td>
+      <td><a href="https://github.com/Villhze/Mobile-Progamming/blob/ab93d25c0983591bc40733d4144199fcae410a55/240605110080_Dimas%20Bagus%20Hari%20Murti_Tugas%20Modul%205.pdf">Laporan Praktikum 5</a></td>
     </tr>
     <tr>
       <td>6</td>
