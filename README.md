@@ -22,7 +22,7 @@
       <td>01</td>
       <td>Pengenalan Mobile Programming dan Setup Lingkungan</td>
       <td><a href="#">Modul 01</a></td>
-      <td><a href="#https://github.com/Villhze/Mobile-Progamming/blob/532dbe50d36755197a68aeec8ba20d3ae391b066/240605110080_Dimas%20Bagus%20Hari%20Murti_Tugas%201.docx">Laporan Praktikum 1</a></td>
+      <td><a href="https://github.com/Villhze/Mobile-Progamming/blob/532dbe50d36755197a68aeec8ba20d3ae391b066/240605110080_Dimas%20Bagus%20Hari%20Murti_Tugas%201.docx">Laporan Praktikum 1</a></td>
     </tr>
     <tr>
       <td>2</td>
