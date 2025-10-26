@@ -55,7 +55,7 @@
       <td>17-09-2025</td>
       <td>06</td>
       <td>Widget GridView dan ListView</td>
-      <td><a href="#">Laporan Praktikum 6</a></td>
+      <td><a href="https://github.com/Villhze/Mobile-Progamming/blob/303112cc342cb71f34ca369a79a716c11adf59f4/240605110080_Dimas%20Bagus%20Hari%20Murti_Tugas%20Modul%206.pdf">Laporan Praktikum 6</a></td>
     </tr>
     <tr>
       <td>7</td>
