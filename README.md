@@ -62,7 +62,7 @@
       <td>24-09-2025</td>
       <td>07</td>
       <td>Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route</td>
-      <td><a href="#">Laporan Praktikum 7</a></td>
+      <td><a href="https://github.com/Villhze/Mobile-Progamming/blob/7e50791320b74b5244fee366ad5445c4a7648dcd/240605110080_Dimas%20Bagus%20Hari%20Murti_Tugas%20Modul%207.pdf">Laporan Praktikum 7</a></td>
     </tr>
     <tr>
       <td>8</td>
