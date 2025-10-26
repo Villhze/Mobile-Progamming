@@ -69,7 +69,7 @@
       <td>24-09-2025</td>
       <td>08</td>
       <td>Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route</td>
-      <td><a href="#">Laporan Praktikum 8</a></td>
+      <td><a href="https://github.com/Villhze/Mobile-Progamming/blob/fa016ac0e000b6af833e6f801fb9f67710c94a44/240605110080_Dimas%20Bagus%20Hari%20Murti_Tugas%20Modul%208.pdf">Laporan Praktikum 8</a></td>
     </tr>
     <tr>
       <td>9</td>
