@@ -1,6 +1,7 @@
 # Hi 👋, I'm Dimas Bagus Hari Murti.
 
-*Saya Mahasiswa Teknik Informatika.*
+*Saya Mahasiswa Teknik Informatika Semester 3
+UIN MAULANA MALIK IBRAHIM MALANG.*
 
 💻 Saat ini saya sedang belajar pemrograman mobile:
 
