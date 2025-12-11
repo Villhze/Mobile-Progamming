@@ -81,28 +81,28 @@ UIN MAULANA MALIK IBRAHIM MALANG.*
     </tr>
     <tr>
       <td>10</td>
-      <td>24-09-2025</td>
+      <td>13-10-2025</td>
       <td>10</td>
       <td>Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter</td>
       <td><a href="https://github.com/Villhze/Mobile-Progamming/blob/6fcfa52e06d0d355b5c0c5e5f939ff75528981f7/240605110080_Dimas%20Bagus%20Hari%20Murti_Tugas%20Modul%2010.pdf">Laporan Praktikum 10</a></td>
     </tr>
     <tr>
       <td>11</td>
-      <td>24-09-2025</td>
+      <td>27-10-2025</td>
       <td>11</td>
       <td>Manajemen State dengan GetX</td>
       <td><a href="https://github.com/Villhze/Mobile-Progamming/blob/main/240605110080_Dimas%20Bagus%20Hari%20Murti_Tugas%20Modul%2011.pdf"> Laporan Praktikum 11</a></td>
     </tr>
     <tr>
       <td>12</td>
-      <td>24-09-2025</td>
+      <td>10-11-2025</td>
       <td>12</td>
       <td>Akses Lokasi dengan GPS di Flutte</td>
       <td><a href="https://github.com/Villhze/Mobile-Progamming/blob/6fcfa52e06d0d355b5c0c5e5f939ff75528981f7/240605110080_Dimas%20Bagus%20Hari%20Murti_Tugas%20Modul%2012.pdf">Laporan Praktikum 12</a></td>
     </tr>
     <tr>
       <td>13</td>
-      <td>24-09-2025</td>
+      <td>17-11-2025</td>
       <td>13</td>
       <td>Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API</td>
       <td><a href="https://github.com/Villhze/Mobile-Progamming/blob/main/240605110080_Dimas%20Bagus%20Hari%20Murti_Tugas%20Modul%2013.pdf">Laporan Praktikum 13</a></td>
