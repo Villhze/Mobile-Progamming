@@ -105,7 +105,7 @@ UIN MAULANA MALIK IBRAHIM MALANG.*
       <td>24-09-2025</td>
       <td>13</td>
       <td>Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API</td>
-      <td><a href="https://github.com/Villhze/Mobile-Progamming/blob/main/240605110080_Dimas%20Bagus%20Hari%20Murti_Tugas%20Modul%2013.pdf">Laporan Praktikum 8</a></td>
+      <td><a href="https://github.com/Villhze/Mobile-Progamming/blob/main/240605110080_Dimas%20Bagus%20Hari%20Murti_Tugas%20Modul%2013.pdf">Laporan Praktikum 13</a></td>
     </tr>
   </tbody>
 </table>
