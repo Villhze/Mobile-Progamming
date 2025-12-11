@@ -91,7 +91,7 @@ UIN MAULANA MALIK IBRAHIM MALANG.*
       <td>24-09-2025</td>
       <td>11</td>
       <td>Manajemen State dengan GetX</td>
-      <td><a href="[https://github.com/Villhze/Mobile-Progamming/blob/fa016ac0e000b6af833e6f801fb9f67710c94a44/240605110080_Dimas%20Bagus%20Hari%20Murti_Tugas%20Modul%208.pdf](https://github.com/Villhze/Mobile-Progamming/blob/6fcfa52e06d0d355b5c0c5e5f939ff75528981f7/240605110080_Dimas%20Bagus%20Hari%20Murti_Tugas%20Modul%2011.pdf)"> Laporan Praktikum 11</a></td>
+      <td><a href="https://github.com/Villhze/Mobile-Progamming/blob/fa016ac0e000b6af833e6f801fb9f67710c94a44/240605110080_Dimas%20Bagus%20Hari%20Murti_Tugas%20Modul%208.pdf"> Laporan Praktikum 11</a></td>
     </tr>
     <tr>
       <td>12</td>
